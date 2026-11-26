@@ -1,0 +1,6 @@
+{
+  "name": "03 Convolutional Neural Networks — Interactive Blueprints (EN/KH)",
+  "description": "33-Slide Bilingual (English & Khmer) Interactive CNN Presentation Studio, Convolution Simulator, and Deep Learning Architecture Blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
